@@ -16,4 +16,6 @@ The post effect is something I have added and works quite well but more work wou
 
 See [home page](https://www.digital-dust.com/single-post/2017/03/24/Brunetons-atmospheric-scattering-in-Unity) for more information and unity package download.
 
+There is a newer improved version of this project [here](https://github.com/Scrawk/Brunetons-Improved-Atmospheric-Scattering).
+
 ![Brunetons Atmospheric Scatter](https://static.wixstatic.com/media/1e04d5_8029c3d24fb348bbb060b2edd568c0b9~mv2.jpg/v1/fill/w_486,h_486,al_c,q_80,usm_0.66_1.00_0.01/1e04d5_8029c3d24fb348bbb060b2edd568c0b9~mv2.jpg)
