@@ -14,7 +14,7 @@ This project contains three scenes. One is just the atmospheric scattering on a 
 
 The post effect is something I have added and works quite well but more work would be needed to be practical. There is a issue with how to blend between the sky which needs to be handled differently (it has the scatter applied in its material, not the post effect) and everything else in the scene.  I have just presumed where the depth buffer is one it has not been written to so must be the sky. This mostly works but you will end up will artifacts due to precision issues.
 
-See [home page](https://www.digital-dust.com/single-post/2017/03/24/Brunetons-atmospheric-scattering-in-Unity) for more information and unity package download.
+You can download a Unity package [here](https://app.box.com/s/50763vgtqtew2of5e700t25ffeksymvp).
 
 There is a newer improved version of this project [here](https://github.com/Scrawk/Brunetons-Improved-Atmospheric-Scattering).
 
