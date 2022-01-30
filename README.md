@@ -17,3 +17,10 @@ The post effect is something I have added and works quite well but more work wou
 There is a newer improved version of this project [here](https://github.com/Scrawk/Brunetons-Improved-Atmospheric-Scattering).
 
 ![Brunetons Atmospheric Scatter](./Media/BrunetonsScatter1.jpg)
+
+List of atmoshere projects
+
+[Brunetons-Improved-Atmospheric-Scattering](https://github.com/Scrawk/Brunetons-Improved-Atmospheric-Scattering)\
+[Brunetons-Atmospheric-Scatter](https://github.com/Scrawk/Brunetons-Atmospheric-Scatter)\
+[GPU-GEMS-Atmospheric-Scatter](https://github.com/Scrawk/GPU-GEMS-Atmospheric-Scatter)\
+[Proland-To-Unity](https://github.com/Scrawk/Proland-To-Unity)
